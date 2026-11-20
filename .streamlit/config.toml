@@ -1,0 +1,23 @@
+[theme]
+base = "dark"
+primaryColor = "#9085e9"
+backgroundColor = "#0d0d0d"
+secondaryBackgroundColor = "#1a1a19"
+textColor = "#f0efec"
+font = "Inter:https://fonts.googleapis.com/css2?family=Inter:wght@300..700&display=swap"
+headingFont = "'Barlow Condensed':https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;600;700&display=swap"
+headingFontWeights = [700, 600, 600, 600, 600, 600]
+baseRadius = "0.75rem"
+borderColor = "#2c2c2a"
+showSidebarBorder = true
+metricValueFontWeight = 600
+
+[theme.sidebar]
+backgroundColor = "#121211"
+secondaryBackgroundColor = "#1f1f1d"
+
+[client]
+toolbarMode = "minimal"
+
+[browser]
+gatherUsageStats = false
